@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "741583509321",
+    "firebase_url": "https://mercato-572ae.firebaseio.com",
+    "project_id": "mercato-572ae",
+    "storage_bucket": "mercato-572ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741583509321:android:a194890a1588326c7f2c98",
+        "android_client_info": {
+          "package_name": "com.example.mercato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741583509321-cee5ava0vkroi1bg0ca5ndukqlh23lae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyQvMRWFKln4b_VNsJgLSTNHmupBcpvc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741583509321-cee5ava0vkroi1bg0ca5ndukqlh23lae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
